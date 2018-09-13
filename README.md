@@ -6,17 +6,19 @@ The path to learn is as follows :-
 
 2. [Add](http://bit.ly/add-cpp)
 
-3. [inside class](http://bit.ly/inside-class)
+3.  [Get and print val](https://github.com/code-mazdor/lorem-ipsum.cpp-/tree/master/get_%26_print_a_number)
 
-4. [outside classimplementation](http://bit.ly/outside-class)
+4. [inside class](http://bit.ly/inside-class)
 
-5. [array in c++](https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/array%20in%20c%20%2B%2B.cpp)
-6. [array of object]( https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/array%20of%20objects.cpp)
+5. [outside classimplementation](http://bit.ly/outside-class)
 
-7. [ array of object(2)]( https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/array%20of%20object%20(2).cpp)
+6. [array in c++](https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/array%20in%20c%20%2B%2B.cpp)
+7. [array of object]( https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/array%20of%20objects.cpp)
 
-8. [area using object as a argument]( https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/area%20using%20object%20as%20a%20argument.cpp)
-9. [default constructor]( https://github.com/code-mazdor/lorem-ipsum.cpp-/tree/master/defaut%20constructor)
+8. [ array of object(2)]( https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/array%20of%20object%20(2).cpp)
+
+9. [area using object as a argument]( https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/area%20using%20object%20as%20a%20argument.cpp)
+10. [default constructor]( https://github.com/code-mazdor/lorem-ipsum.cpp-/tree/master/defaut%20constructor)
 
 *New codes updated frequently -*  __Hang tight fellas!__ 🤞🏽
 
