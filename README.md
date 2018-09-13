@@ -1,5 +1,5 @@
 # c++-code-flow
-All the codes of c++ to help everyone on c++. (beginners) 
+All the codes of c++ to help everyone learn c++. (beginners) 
 
 The path to learn is as follows :-
 1. [Hello](http://bit.ly/hello-cpp)
