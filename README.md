@@ -22,5 +22,5 @@ The path to learn is as follows :-
 
 11. [Parameterized constructor](https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/parameterized%20constr.cpp)
 
-*New codes updated frequently -*  __Hang tight fellas!__ 🤞🏽
+[*New codes updated frequently -*](https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors)  __Hang tight fellas!__ 🤞🏽
 
