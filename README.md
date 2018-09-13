@@ -18,5 +18,5 @@ The path to learn is as follows :-
 8. [area using object as a argument]( https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/area%20using%20object%20as%20a%20argument.cpp)
 9. [default constructor]( https://github.com/code-mazdor/lorem-ipsum.cpp-/tree/master/defaut%20constructor)
 
-*New codes updated frequently -*  __Hang tight fellas!__
+*New codes updated frequently -*  __Hang tight fellas!__ 🤞🏽
 
