@@ -1,4 +1,4 @@
-# c-code-flow
+# c++-code-flow
 All the codes of c++ to help everyone on c++. (beginners) 
 
 The path to learn is as follows :-
