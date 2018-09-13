@@ -22,5 +22,7 @@ The path to learn is as follows :-
 
 11. [Parameterized constructor](https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/parameterized%20constr.cpp)
 
+12. [Copy Constructor](https://github.com/code-mazdor/lorem-ipsum.cpp-/tree/master/copy%20constructor)
+
 [*New codes updated frequently -*](https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors)  __Hang tight fellas!__ 🤞🏽
 
