@@ -28,8 +28,8 @@ int main()
 {
 
 
-    c c1;
-    c1.a::display();   //syntax obj.class name::func();
-    c1.b::display();
-    c1.output();
+    c c2;
+    c2.a::display();   //syntax obj.class name::func();
+    c2.b::display();
+    c2.output();
 }
