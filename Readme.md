@@ -55,6 +55,10 @@
 <li>
 <p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/multiple%20inheritance.cpp">Multiple Inheritance </a></p>
 </li>
+<li>
+<p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/ambiguity.cpp">Ambiguity in inheritance</a></p>
+</li>
+<li></li>
 </ol>
 <p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors"><em>New codes updated frequently -</em></a>  <strong>Hang tight fellas!</strong> 🤞🏽</p>
 
