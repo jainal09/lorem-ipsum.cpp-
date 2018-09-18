@@ -25,30 +25,29 @@ int main()                    .            .
 }
 */
 
-/* 
-        class Base
-        {
-            ... .. ...
-            public:
-          void getData(); <<---------------------.
-            {                                    . 
-             ... .. ...                          . 
-            }                                    .
-        };                                       .  Function
-        class Derived: public Base               .  Call2
-        {                                        .
-            ... .. ...                           . 
-        public:                                  .
-  .-------------------> void getData();          .
-  .      {                                       .
-  .          ... .. ...                          .
-  .          Base::getData(); ....................         
-  .          ... ... ...
-  .      }                            Function Call 1
-  .      };
-  .      int main()
-  .      {
-  .      Derived obj;               
-  .......obj.getData();
-        }
-        */
+
+
+#include <iostream> 
+using namespace std;
+class Base
+{
+public:
+int a=5,b=10;
+void getData()
+{
+   
+}
+};
+class Derived: public Base
+{
+    public:
+    void getData()
+{
+    cout<<"sum="<<a+b;
+}
+};
+int main()
+{
+    Derived obj;
+    obj.getData();
+}

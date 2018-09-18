@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "typeinfo": "cpp"
-    }
+        "typeinfo": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
 }
