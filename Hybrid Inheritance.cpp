@@ -129,11 +129,12 @@ else {
 };
 class result: public test, public sports
 {
-    float Total;
+    float Total,percentage;
       public:
 void resultoutput()
     {
         Total= sub1 + sub2 + sub3 + score;
+        percentage=((sub1+sub2+sub3+score)/120)*100;
         cout<<endl<<"----------------RESULTS------------------"<<endl;
                 if(sub1<=0)
                 {
@@ -168,25 +169,31 @@ void resultoutput()
         if(Total<=35)
         {
 
-        cout<<endl<<" U Failed"<<endl;
+        cout<<endl<<" U Failed ";
+        cout<<"With Percentage score: "<<percentage<<"%"<<endl;
+
         }
         else if(Total<=55)
         {
 
-        cout<<endl<<" Pass!!----->Average result"<<endl;
+        cout<<endl<<" Pass!!----->Average result ";
+        cout<<"With Percentage score: "<<percentage<<"%"<<endl;
 
         }
         else if(Total<=75)
         {
 
-        cout<<endl<<" Pass!!----->Above average result"<<endl;
+        cout<<endl<<" Pass!!----->Above average result ";
+        cout<<"With Percentage score: "<<percentage<<"%"<<endl;
         }
         else if(Total<=100)
         {
-            cout<<endl<<" Pass!!----->Good Result"<<endl;
+            cout<<endl<<" Pass!!----->Good Result ";
+            cout<<"With Percentage score: "<<percentage<<"%"<<endl;
         }
         else{
-            cout<<endl<<" Pass!!----->Awesome result"<<endl;
+            cout<<endl<<" Pass!!----->Awesome result ";
+            cout<<"With Percentage score: "<<percentage<<"%"<<endl;
         }
     }
 };
