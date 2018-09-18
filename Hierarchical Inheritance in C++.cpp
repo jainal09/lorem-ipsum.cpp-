@@ -1,36 +1,41 @@
+
+// hierarchial inheritance.cpp
 #include <iostream> 
 using namespace std;
-class Side
+
+class A //single base class
 {
- protected:
- int l;
- public:
- void set_values (int x)
- { 
-    l=x;
- }
-}; 
-class Square: public Side
+    public:
+ 	int x, y;
+ 	void getdata()
+ 	{
+   	    cout << "\nEnter value of x and y:\n"; cin >> x >> y;
+ 	}
+};
+class B : public A //B is derived from class base
 {
- public:
- int sq()
- { 
-     return (l *l);
-      }
-}; 
-class Cube:public Side
+    public:
+ 	void product()
+ 	{
+ 	    cout << "\nProduct= " << x * y;
+ 	}
+};
+class C : public A //C is also derived from class base
 {
- public:
- int cub()
- { return (l *l*l); }
-}; 
-int main ()
+    public:
+ 	void sum()
+ 	{
+        cout << "\nSum= " << x + y;
+ 	}
+};
+int main()
 {
- Square s;
- s.set_values (10);
- cout << "The square value is::" << s.sq() << endl;
- Cube c;
- c.set_values (20);
- cout << "The cube value is::" << c.cub() << endl;
- return 0;
-}
+    B obj1;          //object of derived class B
+    C obj2;          //object of derived class C
+    obj1.getdata();
+    obj1.product();
+    obj2.getdata();
+    obj2.sum();
+    return 0;
+}  //end of program
+
