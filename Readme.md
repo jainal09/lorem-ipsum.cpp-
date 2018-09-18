@@ -64,6 +64,10 @@
 <li>
 <p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/fUCTION%20OVERDING.cpp">Function Overiding Problem</a></p>
 </li>
+<li>
+<p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/Function%20overiding%20%28solved%29.cpp">Function Overiding Problem (solved)<br>
+</a><br>
+<a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors"><em>New codes updated frequently -</em></a>  <strong>Hang tight fellas!</strong> 🤞🏽</p>
+</li>
 </ol>
-<p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors"><em>New codes updated frequently -</em></a>  <strong>Hang tight fellas!</strong> 🤞🏽</p>
 
