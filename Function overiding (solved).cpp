@@ -52,6 +52,6 @@ void getData(){
 };
 int main()
 {
-    Derived obj;
-    obj.getData();
+    Derived obj1;
+    obj1.getData();
 }
