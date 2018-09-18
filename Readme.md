@@ -62,8 +62,8 @@
 <p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/Hierarchical%20Inheritance%20in%20C++.cpp">Hierarchical Inheritance </a></p>
 </li>
 <li>
-<p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/fUCTION%20OVERDING.cpp">Function Overiding Problem</a><br>
-<a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors"><em>New codes updated frequently -</em></a>  <strong>Hang tight fellas!</strong> 🤞🏽</p>
+<p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/fUCTION%20OVERDING.cpp">Function Overiding Problem</a></p>
 </li>
 </ol>
+<p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors"><em>New codes updated frequently -</em></a>  <strong>Hang tight fellas!</strong> 🤞🏽</p>
 
