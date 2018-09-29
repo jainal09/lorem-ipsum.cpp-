@@ -11,8 +11,14 @@ class Samplecopyconstructor
         x = x1;
         y = y1;
     }
-
-    /* Copy constructor */
+     /* Copy constructor */
+/*
+Classname(const classname & objectname)
+{
+    . . . .
+}
+*/
+   
     Samplecopyconstructor (const Samplecopyconstructor &sam)
     {
         x = sam.x;
