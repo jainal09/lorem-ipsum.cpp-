@@ -75,8 +75,8 @@
 <p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/blob/master/Hybrid%20Inheritance.cpp">Hybrid Inheritance (complex program)</a></p>
 </li>
 <li>
-<p>HI!</p>
+<p>Hello</p>
 </li>
 </ol>
-<p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors"><em>New codes updated frequently -</em></a>  <strong>Hang tight fellas!</strong> 🤞🏽</p>
+<p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors"><em>New codes updated frequently -</em></a>  <strong>Hang  very  tight fellas!</strong> 🤞🏽</p>
 
