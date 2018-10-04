@@ -77,6 +77,9 @@
 <li>
 <p>HI!</p>
 </li>
+    <li>
+<p>hows going</p>
+</li>
 </ol>
 <p><a href="https://github.com/code-mazdor/lorem-ipsum.cpp-/graphs/contributors"><em>New codes updated frequently -</em></a>  <strong>Hang tight fellas!</strong> 🤞🏽</p>
 
